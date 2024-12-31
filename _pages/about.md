@@ -51,30 +51,18 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 
 # Academic Service 
 ## Reviewer of Refereed Conferences
-* **VTC'24-Fall**: IEEE Vehicular Technology Conference
-* **ICCC'24 Communication and Information Security Symposium**: International Conference on Communications in China
-* **Globecom'24 GCSN**: IEEE Global Communications Conference
-* **Globecom'24 SAC FDC**: IEEE Global Communications Conference
-* **Globecom'24 SAC SSC**: IEEE Global Communications Conference
-* **ICCT'24**: IEEE The 24st International Conference on Communication Technology
-* **PIMRC'24**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
-* **VTC'24-Spring**: IEEE Vehicular Technology Conference 
-* **INFOCOM'24 PerAI6G**: IEEE International Conference on Computer Communications Workshop
-* **ICCT'23**: IEEE The 23rd International Conference on Communication Technology
-* **VTC'23**: IEEE Vehicular Technology Conference
-* **GLOBECOM'23**: IEEE Global Communications Conference
-* **ICCC'23**: IEEE/CIC International Conference on Communications in China 
-* **ICCC'23 Workshops**: IEEE/CIC International Conference on Communications in China
-* **PIMRC'23**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 
-* **PIMRC'23F**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
-* **INFOCOM'23 Workshop**: IEEE International Conference on Computer Communications Workshop
+* **VTC'23, '24**: IEEE Vehicular Technology Conference
+* **ICCC'23, '24**: IEEE/CIC International Conference on Communications in China
+* **GLOBECOM'23, '24**: IEEE Global Communications Conference
+* **ICCT'23, '24**: IEEE International Conference on Communication Technology
+* **PIMRC'23, '24**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 
+* **INFOCOM Workshop'23, '24**: IEEE International Conference on Computer Communications Workshop
 
 ## Reviewer of Refereed Journals
-* IEEE Communications Magazine
 * IEEE Transactions on Mobile Computing
-* IEEE Transactions on Vehicular Technology
 * IEEE Internet of Things Journal
-* IEEE Access: IEEE Vehicular Technology Society Section
+* IEEE Transactions on Vehicular Technology
+* IEEE Communications Magazine
 * ACM Transactions on Computing Education
 * Journal of Computer Security
 * Springer Peer-to-Peer Networking and Applications
