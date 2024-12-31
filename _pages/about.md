@@ -16,6 +16,8 @@ Contributions through pull requests or merge requests are welcome!!
 
 News
 ======
+* (12/2024)**[Service]** I will serve as a a member of Artifact Evaluation Committee for Usenix Security 2025!
+* (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
 * (07/2024)**[Award]** I received the Student Travel Grant from Usenix Security!
 * (05/2024)**[Paper]** Our tool that discovered over 60 zero-day vulnerabilities is accepted to [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24).
 * (04/2024)**[Service]** I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu), which will be held in Virginia, USA, in October 2024. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
@@ -47,15 +49,61 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 * Engineering Exchange Scholarship, The University of Melbourne, 2019.
 * Excellent Student, Northeastern University, 2016-2017. -->
 
-<!-- Academic Service
-======
-### Reviewer of Refereed Conferences
+# Academic Service 
+
+## Reviewer of Refereed Conferences
+
+* **VTC'24-Fall**: IEEE Vehicular Technology Conference
+
+* **ICCC'24 Communication and Information Security Symposium**: International Conference on Communications in China
+
+* **Globecom'24 GCSN**: IEEE Global Communications Conference
+
+* **Globecom'24 SAC FDC**: IEEE Global Communications Conference
+
+* **Globecom'24 SAC SSC**: IEEE Global Communications Conference
+
+* **ICCT'24**: IEEE The 24st International Conference on Communication Technology
+
+* **PIMRC'24**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
+
+* **VTC'24-Spring**: IEEE Vehicular Technology Conference 
+
+* **INFOCOM'24 PerAI6G**: IEEE International Conference on Computer Communications Workshop
+
+* **ICCT'23**: IEEE The 23rd International Conference on Communication Technology
+
+* **VTC'23**: IEEE Vehicular Technology Conference
+
+* **GLOBECOM'23**: IEEE Global Communications Conference
+
+* **ICCC'23**: IEEE/CIC International Conference on Communications in China 
+
+* **ICCC'23 Workshops**: IEEE/CIC International Conference on Communications in China
+
+* **PIMRC'23**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 
+
 * **PIMRC'23F**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
+
 * **INFOCOM'23 Workshop**: IEEE International Conference on Computer Communications Workshop
 
-### Reviewer of Refereed Journals
+## Reviewer of Refereed Journals
+
+* IEEE Communications Magazine
+
+* IEEE Transactions on Mobile Computing
+
+* IEEE Transactions on Vehicular Technology
+
+* IEEE Internet of Things Journal
+
+* IEEE Access: IEEE Vehicular Technology Society Section
+
+* ACM Transactions on Computing Education
+
 * Journal of Computer Security
-* Springer Peer-to-Peer Networking and Applications -->
+
+* Springer Peer-to-Peer Networking and Applications
 
 Teaching Experience
 ======
