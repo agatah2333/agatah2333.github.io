@@ -16,7 +16,7 @@ Contributions through pull requests or merge requests are welcome!!
 
 News
 ======
-* (12/2024)**[Service]** I will serve as a a member of Artifact Evaluation Committee for Usenix Security 2025!
+* (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
 * (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
 * (07/2024)**[Award]** I received the Student Travel Grant from Usenix Security!
 * (05/2024)**[Paper]** Our tool that discovered over 60 zero-day vulnerabilities is accepted to [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24).
@@ -51,12 +51,12 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 
 # Academic Service 
 ## Reviewer of Refereed Conferences
-* **VTC'23, '24**: IEEE Vehicular Technology Conference
-* **ICCC'23, '24**: IEEE/CIC International Conference on Communications in China
-* **GLOBECOM'23, '24**: IEEE Global Communications Conference
-* **ICCT'23, '24**: IEEE International Conference on Communication Technology
-* **PIMRC'23, '24**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 
-* **INFOCOM Workshop'23, '24**: IEEE International Conference on Computer Communications Workshop
+* **VTC'23, 24**: IEEE Vehicular Technology Conference
+* **ICCC'23, 24**: IEEE/CIC International Conference on Communications in China
+* **GLOBECOM'23,24**: IEEE Global Communications Conference
+* **ICCT'23, 24**: IEEE International Conference on Communication Technology
+* **PIMRC'23, 24**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 
+* **INFOCOM Workshop'23, 24**: IEEE International Conference on Computer Communications Workshop
 
 ## Reviewer of Refereed Journals
 * IEEE Transactions on Mobile Computing
