@@ -16,15 +16,23 @@ Contributions through pull requests or merge requests are welcome!!
 
 News
 ======
+* (01/2025)**[Paper]** Our work discovered a fascinating bug in Apple's system, enabling attackers to turn non-Apple devices into AirTags and leverage iPhones worldwide as "spies." Apple has patched this bug! Accepted to USENIX Security'25.
 * (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
 * (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
 * (07/2024)**[Award]** I received the Student Travel Grant from Usenix Security!
 * (05/2024)**[Paper]** Our tool that discovered over 60 zero-day vulnerabilities is accepted to [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24).
 * (04/2024)**[Service]** I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu), which will be held in Virginia, USA, in October 2024. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
-* (02/2023)**[Paper]**Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at [MobiSys'23](https://www.sigmobile.org/mobisys/2023/).
+* (02/2023)**[Paper]** Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at [MobiSys'23](https://www.sigmobile.org/mobisys/2023/).
 
 Publications
 ======
+
+* **Locating You from a Thousand Miles Away: Turning a Computer into an Apple AirTag Without Root Privilege Escalation** *
+Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
+*Security'25*, Seattle, USA, Aug. 2025
+
+This work discovered a fascinating bug in Apple's system. Exploiting this bug, an attacker could turn a non-Apple device into an AirTag, making all iPhones worldwide act as free "spies" to report the location of the device. Apple has urgently patched this bug!
+
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  
 **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
 *Security'24*, Philadelphia, USA, Aug. 2024
