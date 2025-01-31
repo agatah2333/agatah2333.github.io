@@ -27,7 +27,7 @@ News
 Publications
 ======
 
-* **Locating You from a Thousand Miles Away**: *Turning a Computer into an Apple AirTag Without Root Privilege Escalation*  
+*  Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges*  
 Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
 *Security'25*, Seattle, USA, Aug. 2025
 
