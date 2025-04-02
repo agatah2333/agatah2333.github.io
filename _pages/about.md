@@ -28,7 +28,8 @@ Publications
 ======
 
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  \>\>[PDF](../assets/Matter-Fuzzing.pdf) 
-**Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
+
+  **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
 *Security'24*, Philadelphia, USA, Aug. 2024 
 
 
