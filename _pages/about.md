@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th-year Ph.D. Student at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/), under the supervision of [Prof. Lannan Luo](https://lannan.github.io/index.html) and [Prof. Qiang Zeng](https://cs.gmu.edu/~zeng/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
+I am a 4th-year Ph.D. Student at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
 
 My research mainly focuses on IoT Attacks and Defenses.
 
@@ -16,7 +16,7 @@ Contributions through pull requests or merge requests are welcome!!
 
 News
 ======
-* (01/2025)**[Paper]** Our work discovered a fascinating bug in Apple's system, enabling attackers to turn non-Apple devices into AirTags and leverage iPhones worldwide as "spies." Apple has patched this bug! Accepted to USENIX Security'25.
+* (01/2025)**[Paper]** We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!
 * (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
 * (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
 * (07/2024)**[Award]** I received the Student Travel Grant from Usenix Security!
@@ -27,26 +27,29 @@ News
 Publications
 ======
 
-*  Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges*  
-Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
-*Security'25*, Seattle, USA, Aug. 2025
-
-This work discovered a fascinating bug in Apple's system. Exploiting this bug, an attacker could turn a non-Apple device into an AirTag, making all iPhones worldwide act as free "spies" to report the location of the device. Apple has urgently patched this bug!
-
-* **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  
+* **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  \>\>[PDF](../assets/Matter-Fuzzing.pdf) 
 **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
-*Security'24*, Philadelphia, USA, Aug. 2024
+*Security'24*, Philadelphia, USA, Aug. 2024 
+
+
 
 This work has discovered over 60 vulnerabilites and 3 CVEs have been assigned: <span style="color: red;">CVE-2023-42189,CVE-2023-45955,CVE-2023-45956</span>.
 
-* **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
-**Xiaoyue Ma**, Qiang Zeng, Haotian Chi, Lannan Luo  
+* **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  \>\>[PDF](../assets/IoT-Fuzzing.pdf)
+  
+  **Xiaoyue Ma**, Qiang Zeng, Haotian Chi, Lannan Luo  
 *MobiSys'23*, Helsinki, Finland, June. 2023    
-\>\>[PDF]
-
-<!-- (../assets/IoT-Fuzzing.pdf)   -->
+  
 This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have been assigned: <span style="color: red;">CVE-2023-24678, CVE-2022-47100, CVE-2023-29780, CVE-2023-29779, CVE-2023-34596, CVE-2023-34597</span>.  
 <span style="color: blue;">Artifact Review and Badging:</span> Artifacts Evaluated – Functional v1.1 and Artifacts Evaluated – Reusable v1.1
+
+* Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges 
+
+  Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
+
+  *Security'25*, Seattle, USA, Aug. 2025
+
+This work discovered a fascinating bug in Apple's system. Exploiting this bug, an attacker could turn a non-Apple device into an AirTag, making all iPhones worldwide act as free "spies" to report the location of the device. Apple has urgently patched this bug!
 
 <!-- Awards/Honors
 ======
@@ -58,6 +61,10 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 * Excellent Student, Northeastern University, 2016-2017. -->
 
 # Academic Service 
+## Technical Program Committee
+* **Security'25 AE**: Usenix Security artifacts evaluation, 2025
+* **VTC'25**: IEEE Vehicular Technology Conference
+
 ## Reviewer of Refereed Conferences
 * **VTC'23, 24**: IEEE Vehicular Technology Conference
 * **ICCC'23, 24**: IEEE/CIC International Conference on Communications in China
