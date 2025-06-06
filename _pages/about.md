@@ -87,6 +87,7 @@ The vulnerability and attack have been acknowledged by Apple and featured in mul
 
 ## Reviewer of Refereed Journals
 * IEEE Transactions on Mobile Computing
+* IEEE Transactions on Networking
 * IEEE Internet of Things Journal
 * IEEE Transactions on Vehicular Technology
 * IEEE Communications Magazine
