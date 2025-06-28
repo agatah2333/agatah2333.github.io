@@ -16,6 +16,7 @@ Contributions through pull requests or merge requests are welcome!!
 
 News
 ======
+* (06/2025)**[Paper]** Our paper has been accepted by MobiCom 2025! Congratulations to all the authors!
 * (01/2025)**[Paper]** We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!
 * (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
 * (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
@@ -47,20 +48,19 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 *  **Tracking You from a Thousand Miles Away!** Turning a Bluetooth Device into an Apple AirTag Without Root Privileges 
 
    Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
-
    *Security'25*, Seattle, USA, Aug. 2025
 
   We introduce a [terrifying attack](https://nroottag.github.io/) that can turn your computer into an "AirTag" to track you.  
-The vulnerability and attack have been acknowledged by Apple and featured in multiple major media outlets:
+> 📣 **The vulnerability and attack have been acknowledged by Apple and featured in**  
+> [Dailymail](https://www.dailymail.co.uk/sciencetech/article-14470803/Frightening-flaw-iPhone-app-thats-downloaded-default-national-security-threat.html) |
+> [Forbes](https://www.forbes.com/sites/davidphelan/2025/03/03/apple-iphone-find-my-critical-alert-issued-to-all-users-in-expert-warning/) |
+> [TechRadar](https://www.techradar.com/phones/phone-accessories/this-find-my-exploit-lets-hackers-track-any-bluetooth-device-heres-how-you-can-stay-safe) |
+> [ACM TechNews](https://technews.acm.org/archives.cfm?fo=2025-03-mar/mar-05-2025.html) |
+> [Indian Express](https://indianexpress.com/article/technology/tech-news-technology/apple-find-my-network-security-flaw-track-bluetooth-devices-9861714/) |
+> [MoneyControl](https://www.moneycontrol.com/technology/apple-s-find-my-network-exploit-enables-silent-tracking-from-any-bluetooth-device-article-12953351.html) |
+> [Heise (DE)](https://www.heise.de/news/Sicherheitsforscher-nutzen-Apples-Wo-ist-um-alle-Bluetooth-Geraete-zu-tracken-10299195.html) |
+> [CHIP (DE)](https://www.chip.de/nachrichten/apple,79701/gefahr-fuer-iphones-und-co-forscher-entdecken-sicherheitsluecke-in-apple-system_ce80b936-83db-49f5-aaf9-ca4144e467ee.html)
 
-- [Dailymail: *Frightening flaw in iPhone app that's downloaded by default is 'a national security threat'*](https://www.dailymail.co.uk/sciencetech/article-14470803/Frightening-flaw-iPhone-app-thats-downloaded-default-national-security-threat.html)
-- [Forbes: *Apple iPhone Find My: Critical Alert Issued To All Users In Expert Warning*](https://www.forbes.com/sites/davidphelan/2025/03/03/apple-iphone-find-my-critical-alert-issued-to-all-users-in-expert-warning/)
-- [TechRadar: *This Find My exploit lets hackers track any Bluetooth device—here's how you can stay safe*](https://www.techradar.com/phones/phone-accessories/this-find-my-exploit-lets-hackers-track-any-bluetooth-device-heres-how-you-can-stay-safe)
-- [ACM TechNews (March 5, 2025 edition)](https://technews.acm.org/archives.cfm?fo=2025-03-mar/mar-05-2025.html)
-- [Indian Express: *Apple Find My network security flaw lets attackers track Bluetooth devices*](https://indianexpress.com/article/technology/tech-news-technology/apple-find-my-network-security-flaw-track-bluetooth-devices-9861714/)
-- [MoneyControl: *Apple’s Find My network exploit enables silent tracking from any Bluetooth device*](https://www.moneycontrol.com/technology/apple-s-find-my-network-exploit-enables-silent-tracking-from-any-bluetooth-device-article-12953351.html)
-- [Heise: *Sicherheitsforscher nutzen Apples "Wo ist?" um alle Bluetooth-Geräte zu tracken*](https://www.heise.de/news/Sicherheitsforscher-nutzen-Apples-Wo-ist-um-alle-Bluetooth-Geraete-zu-tracken-10299195.html) (German/English)
-- [CHIP: *Gefahr für iPhones und Co: Forscher entdecken Sicherheitslücke in Apple-System*](https://www.chip.de/nachrichten/apple,79701/gefahr-fuer-iphones-und-co-forscher-entdecken-sicherheitsluecke-in-apple-system_ce80b936-83db-49f5-aaf9-ca4144e467ee.html) (German)
 
 
 <!-- Awards/Honors
