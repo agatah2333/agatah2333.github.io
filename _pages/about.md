@@ -28,26 +28,21 @@ News
 Publications
 ======
 
-* **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  \>\>[PDF](../assets/Matter-Fuzzing.pdf) 
-
+* **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  \>\>[PDF](../assets/Matter-Fuzzing.pdf)  
   **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
 *Security'24*, Philadelphia, USA, Aug. 2024 
 
-
-
 This work has discovered over 60 vulnerabilites and 3 CVEs have been assigned: <span style="color: red;">CVE-2023-42189,CVE-2023-45955,CVE-2023-45956</span>.
 
-* **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  \>\>[PDF](../assets/IoT-Fuzzing.pdf)
-  
+* **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  \>\>[PDF](../assets/IoT-Fuzzing.pdf)  
   **Xiaoyue Ma**, Qiang Zeng, Haotian Chi, Lannan Luo  
 *MobiSys'23*, Helsinki, Finland, June. 2023    
   
 This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have been assigned: <span style="color: red;">CVE-2023-24678, CVE-2022-47100, CVE-2023-29780, CVE-2023-29779, CVE-2023-34596, CVE-2023-34597</span>.  
 <span style="color: blue;">Artifact Review and Badging:</span> Artifacts Evaluated – Functional v1.1 and Artifacts Evaluated – Reusable v1.1
 
-*  **Tracking You from a Thousand Miles Away!** Turning a Bluetooth Device into an Apple AirTag Without Root Privileges 
-
-   Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
+*  **Tracking You from a Thousand Miles Away!** Turning a Bluetooth Device into an Apple AirTag Without Root Privileges  
+   Junming Chen, **Xiaoyue Ma**, Lannan Luo, Qiang Zeng  
    *Security'25*, Seattle, USA, Aug. 2025
 
   We introduce a [terrifying attack](https://nroottag.github.io/) that can turn your computer into an "AirTag" to track you.  
