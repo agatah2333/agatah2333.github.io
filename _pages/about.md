@@ -20,8 +20,8 @@ News
 * (06/2025)**[Paper]** Our paper has been accepted by MobiCom 2025! Congratulations to all the authors!
 * (06/2025)**[News]** Our Demo Accepted at DEF CON 33!
 DEF CON is one of the world’s largest and most influential hacker conferences. Our team will present at the Demo Labs, where [Junming](https://www.linkedin.com/in/junming-c/) will share our latest research and innovations with the security community.
-<details>
-<summary><strong>📰 Recent News & Updates (open/close)</strong></summary>
+<details><summary>More...</summary>
+
 * (01/2025)**[Paper]** We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!
 * (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
 * (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
