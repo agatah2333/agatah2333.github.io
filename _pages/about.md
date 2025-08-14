@@ -20,6 +20,8 @@ News
 * (06/2025)**[Paper]** Our paper has been accepted by MobiCom 2025! Congratulations to all the authors!
 * (06/2025)**[News]** Our Demo Accepted at DEF CON 33!
 DEF CON is one of the world’s largest and most influential hacker conferences. Our team will present at the Demo Labs, where [Junming](https://www.linkedin.com/in/junming-c/) will share our latest research and innovations with the security community.
+<details>
+<summary><strong>📰 Recent News & Updates (open/close)</strong></summary>
 * (01/2025)**[Paper]** We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!
 * (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
 * (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
@@ -27,6 +29,7 @@ DEF CON is one of the world’s largest and most influential hacker conferences.
 * (05/2024)**[Paper]** Our tool that discovered over 60 zero-day vulnerabilities is accepted to [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24).
 * (04/2024)**[Service]** I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu), which will be held in Virginia, USA, in October 2024. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
 * (02/2023)**[Paper]** Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at [MobiSys'23](https://www.sigmobile.org/mobisys/2023/).
+</details>
 
 Publications
 ======
