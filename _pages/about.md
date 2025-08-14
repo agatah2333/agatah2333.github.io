@@ -16,6 +16,7 @@ Contributions through pull requests or merge requests are welcome!!
 
 News
 ======
+* (08/2025)**[Paper]** Our Security’25 paper, which presents a terrifying attack that turns a device into an “AirTag” for tracking, has received the USENIX Security Distinguished Artifact Paper Award!
 * (06/2025)**[Paper]** Our paper has been accepted by MobiCom 2025! Congratulations to all the authors!
 * (06/2025)**[News]** Our Demo Accepted at DEF CON 33!
 DEF CON is one of the world’s largest and most influential hacker conferences. Our team will present at the Demo Labs, where [Junming](https://www.linkedin.com/in/junming-c/) will share our latest research and innovations with the security community.
