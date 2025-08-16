@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+kramdown:
+  parse_block_html: true
 ---
 I am a Ph.D. candidate at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
 
