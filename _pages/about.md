@@ -21,7 +21,21 @@ News
 * (06/2025)**[News]** Our Demo Accepted at DEF CON 33!
 DEF CON is one of the world’s largest and most influential hacker conferences. Our team will present at the Demo Labs, where [Junming](https://www.linkedin.com/in/junming-c/) will share our latest research and innovations with the security community.
 
-<div id="more-news" style="display: none;">
+<style>
+.more-news {
+    display: none;
+}
+.toggle-btn {
+    background: none;
+    border: none;
+    color: #0066cc;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 0;
+    text-decoration: underline;
+}
+</style>
+<div id="more-news" class="more-news">
 <ul>
 <li>(01/2025)<strong>[Paper]</strong> We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!</li>
 <li>(12/2024)<strong>[Service]</strong> I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!</li>
@@ -32,23 +46,19 @@ DEF CON is one of the world’s largest and most influential hacker conferences.
 <li>(02/2023)<strong>[Paper]</strong> Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at <a href="https://www.sigmobile.org/mobisys/2023/">MobiSys'23</a>.</li>
 </ul>
 </div>
-<button id="toggle-btn" onclick="toggleNews()" style="background: none; border: none; color: #0066cc; cursor: pointer; font-size: 16px; padding: 0; text-decoration: underline;">
+<button class="toggle-btn" onclick="(function(){
+ var newsDiv = document.getElementById('more-news');
+ var btn = event.target;
+ if (newsDiv.style.display === 'none' || newsDiv.style.display === '') {
+     newsDiv.style.display = 'block';
+     btn.innerHTML = '▲ Less...';
+ } else {
+     newsDiv.style.display = 'none';
+     btn.innerHTML = '▼ More...';
+ }
+})()">
 ▼ More...
 </button>
-<script>
-function toggleNews() {
-    const newsDiv = document.getElementById('more-news');
-    const btn = document.getElementById('toggle-btn');
-    
-    if (newsDiv.style.display === 'none') {
-        newsDiv.style.display = 'block';
-        btn.innerHTML = '▲ Less...';
-    } else {
-        newsDiv.style.display = 'none';
-        btn.innerHTML = '▼ More...';
-    }
-}
-</script>
 
 Publications
 ======
