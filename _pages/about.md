@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-kramdown:
-  parse_block_html: true
 ---
 I am a Ph.D. candidate at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
 
@@ -24,21 +22,19 @@ News
 DEF CON is one of the world’s largest and most influential hacker conferences. Our team will present at the Demo Labs, where [Junming](https://www.linkedin.com/in/junming-c/) will share our latest research and innovations with the security community.
 
 <div id="more-news" style="display: none;">
-
-* (01/2025)**[Paper]** We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!
-* (12/2024)**[Service]** I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!
-* (11/2024)**[Award]** I received the Student Travel Grant from George Mason University!
-* (07/2024)**[Award]** I received the Student Travel Grant from Usenix Security!
-* (05/2024)**[Paper]** Our tool that discovered over 60 zero-day vulnerabilities is accepted to [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24).
-* (04/2024)**[Service]** I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu), which will be held in Virginia, USA, in October 2024. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
-* (02/2023)**[Paper]** Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at [MobiSys'23](https://www.sigmobile.org/mobisys/2023/).
-
+<ul>
+<li>(01/2025)<strong>[Paper]</strong> We introduce a terrifying attack that can turn your computer into an "AirTag" to track you. Apple has patched this bug! Accepted to USENIX Security'25!</li>
+<li>(12/2024)<strong>[Service]</strong> I will serve as a member of Artifact Evaluation Committee for Usenix Security 2025!</li>
+<li>(11/2024)<strong>[Award]</strong> I received the Student Travel Grant from George Mason University!</li>
+<li>(07/2024)<strong>[Award]</strong> I received the Student Travel Grant from Usenix Security!</li>
+<li>(05/2024)<strong>[Paper]</strong> Our tool that discovered over 60 zero-day vulnerabilities is accepted to <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>.</li>
+<li>(04/2024)<strong>[Service]</strong> I will serve as a member of the Local Organization Team for the Information Security Conference <a href="https://isc24.cs.gmu.edu">(ISC)</a>, which will be held in Virginia, USA, in October 2024. We welcome the submission of your best work! Check the <a href="https://isc24.cs.gmu.edu/docs/call-for-papers/">Call for Papers (CFP)</a> here!</li>
+<li>(02/2023)<strong>[Paper]</strong> Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at <a href="https://www.sigmobile.org/mobisys/2023/">MobiSys'23</a>.</li>
+</ul>
 </div>
-
-<button id="toggle-btn" onclick="toggleNews()" style="background: none; border: none; color: #0066cc; cursor: pointer; font-size: 16px; padding: 0;">
+<button id="toggle-btn" onclick="toggleNews()" style="background: none; border: none; color: #0066cc; cursor: pointer; font-size: 16px; padding: 0; text-decoration: underline;">
 ▼ More...
 </button>
-
 <script>
 function toggleNews() {
     const newsDiv = document.getElementById('more-news');
