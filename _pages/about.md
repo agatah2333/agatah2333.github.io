@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
+I am a Ph.D. at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
 
 My research mainly focuses on IoT Attacks and Defenses.
 
@@ -62,6 +62,9 @@ DEF CON is one of the world’s largest and most influential hacker conferences.
 
 Publications
 ======
+* **LLM-Assisted IoT Testing:** *Finding Conformance Bugs in Matter SDKs*
+  **Xiaoyue Ma**, Junming Chen, Lannan Luo, Qiang Zeng. \>\>[PDF](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9mY2VjN2NjNTNmY2ZjYzk0L0V0UkplWmtDdHB4TXJrME03R08zdFkwQnFpZl9HOXFKUjNzbmNydU95S2NLV2c_ZT1yN3FXZFg&cid=FCEC7CC53FCFCC94&id=FCEC7CC53FCFCC94%21sa739e76028ae467791b574fb3a1ba54a&parId=FCEC7CC53FCFCC94%21s997949d4b6024c9cae4d0cec63b7b58d&o=OneUp&v=validatepermission)
+
 
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  \>\>[PDF](../assets/Matter-Fuzzing.pdf)  
   **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
