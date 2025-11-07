@@ -107,6 +107,7 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 
 # Academic Service 
 ## Technical Program Committee
+* **Security'26 AE**: Usenix Security artifacts evaluation, 2026
 * **Security'25 AE**: Usenix Security artifacts evaluation, 2025
 * **VTC'25**: IEEE Vehicular Technology Conference
 
