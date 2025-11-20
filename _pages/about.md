@@ -63,6 +63,7 @@ DEF CON is one of the world’s largest and most influential hacker conferences.
 Publications
 ======
 * **LLM-Assisted IoT Testing:** *Finding Conformance Bugs in Matter SDKs*
+  
   **Xiaoyue Ma**, Junming Chen, Lannan Luo, Qiang Zeng. \>\>[PDF](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9mY2VjN2NjNTNmY2ZjYzk0L0V0UkplWmtDdHB4TXJrME03R08zdFkwQnFpZl9HOXFKUjNzbmNydU95S2NLV2c_ZT1yN3FXZFg&cid=FCEC7CC53FCFCC94&id=FCEC7CC53FCFCC94%21sa739e76028ae467791b574fb3a1ba54a&parId=FCEC7CC53FCFCC94%21s997949d4b6024c9cae4d0cec63b7b58d&o=OneUp&v=validatepermission)
 
 *MobiCom'25*, Hong Kong, China, Nov. 2025 
