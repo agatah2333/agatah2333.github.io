@@ -16,6 +16,7 @@ Contributions through pull requests or merge requests are welcome!! -->
 
 News
 ======
+
 * (08/2025)**[Paper]** Our Security’25 paper, which presents a terrifying attack that turns a device into an “AirTag” for tracking, has received the [USENIX Security Distinguished Artifact Paper Award](../assets/sec25_distinguished_artifact-chen.pdf). Only 6 out of 407 papers received this prestigious recognition!
 * (06/2025)**[Paper]** Our paper has been accepted by MobiCom 2025! Congratulations to all the authors!
 * (06/2025)**[News]** Our Demo Accepted at DEF CON 33!
@@ -66,7 +67,7 @@ Publications
   
   **Xiaoyue Ma**, Junming Chen, Lannan Luo, Qiang Zeng. \>\>[PDF](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9mY2VjN2NjNTNmY2ZjYzk0L0V0UkplWmtDdHB4TXJrME03R08zdFkwQnFpZl9HOXFKUjNzbmNydU95S2NLV2c_ZT1yN3FXZFg&cid=FCEC7CC53FCFCC94&id=FCEC7CC53FCFCC94%21sa739e76028ae467791b574fb3a1ba54a&parId=FCEC7CC53FCFCC94%21s997949d4b6024c9cae4d0cec63b7b58d&o=OneUp&v=validatepermission)
 
-*MobiCom'25*, Hong Kong, China, Nov. 2025 
+  *MobiCom'25*, Hong Kong, China, Nov. 2025 
 
 
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  \>\>[PDF](../assets/Matter-Fuzzing.pdf)  
