@@ -129,6 +129,8 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 * IEEE Internet of Things Journal
 * IEEE Transactions on Vehicular Technology
 * IEEE Communications Magazine
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Communications
 * ACM Transactions on Computing Education
 * Journal of Computer Security
 * Springer Peer-to-Peer Networking and Applications
