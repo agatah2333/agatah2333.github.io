@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Ph.D. at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
 
-My research mainly focuses on IoT Attacks and Defenses.
+My research focuses on the security of IoT and cyber-physical systems, with the aim of advancing trustworthy AIoT systems.
 
 <!-- I also maintain a deadline countdown website for conferences related to software analysis, security & privacy, and AI: [Cybersecurity-Lab-GMU DDL Countdowns](https://cybersecurity-lab-gmu.github.io/).  
 Contributions through pull requests or merge requests are welcome!! -->
